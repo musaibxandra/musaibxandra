@@ -9,7 +9,7 @@
 
 
 
-### Socials:
+### Socials
 
 <a href="https://www.linkedin.com/in/musaibxandra">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
