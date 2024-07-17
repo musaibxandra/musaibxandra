@@ -7,4 +7,5 @@
 - 🤔 You can find me on Linkedin [here](https://www.linkedin.com/in/musaibxandra/)
 - 💬 Ask me about Python, SQL, Databases, Statistics.
 - 📫 You can reach out to me at maqdoom666145@gmail.com.
--->
+
+[![Streak and Stats](https://streak-stats.demolab.com/?user=musaibxandra)](https://git.io/streak-stats)
