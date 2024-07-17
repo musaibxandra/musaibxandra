@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Mohammed Maqdoom</h1>
 
-<h3 align="center"> Data Geek | AI Explorer </h3>
-
 
 - 🔭 My Latest Projects are [Fleet Wagon](https://github.com/musaibxandra/Fleet-Wagon), [WiseBuy Haven](https://github.com/musaibxandra/WiseBuy-Haven)
 - 🌱 Currently expanding my skills in deep learning, NLP, and big data technologies.
