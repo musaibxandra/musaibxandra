@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Mohammed Maqdoom </h1>
 
 
-- 🔭 My Latest Projects are [Fleet Wagon](https://github.com/musaibxandra/Fleet-Wagon), [WiseBuy Haven](https://github.com/musaibxandra/WiseBuy-Haven)
-- 🌱 Currently expanding my skills in deep learning, NLP, and big data technologies.
-- 🤔 You can find me on Linkedin [here](https://www.linkedin.com/in/musaibxandra/)
-- 💬 Ask me about Python, SQL, Databases, Statistics.
-- 📫 You can reach me at maqdoom666145@gmail.com.
-
+- 🔭 My Latest Projects are [Fleet Wagon](https://github.com/musaibxandra/Fleet-Wagon), [WiseBuy Haven](https://github.com/musaibxandra/WiseBuy-Haven)<br><br>
+- 🌱 Currently expanding my skills in deep learning, NLP, and big data technologies.<br><br>
+- 🤔 You can find me on Linkedin [here](https://www.linkedin.com/in/musaibxandra/)<br><br>
+- 💬 Ask me about Python, SQL, Databases, Statistics.<br><br>
+- 📫 You can reach me at maqdoom666145@gmail.com.<br><br>
 
 
 ### Socials
