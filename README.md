@@ -4,7 +4,6 @@
 - 🔭 My Recent Projects are [Fleet Wagon](https://github.com/musaibxandra/Fleet-Wagon), [WiseBuy Haven](https://github.com/musaibxandra/WiseBuy-Haven)<br><br>
 - 🌱 Currently expanding my skills in data science and deep learning.<br><br>
 - 🤔 You can find me on Linkedin [here](https://www.linkedin.com/in/musaibxandra/)<br><br>
-- 💬 Ask me about Python, SQL, Databases, Statistics.<br><br>
 - 📫 You can reach me at maqdoom666145@gmail.com.<br><br>
 
 
