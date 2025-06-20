@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Maqdoom <br><br> </h1>
 
 
-- 🔭 My Recent Projects are [american_sign_lang_translator](https://github.com/musaibxandra/american_sign_lang_translator), [Fleet Wagon](https://github.com/musaibxandra/Fleet-Wagon), [WiseBuy Haven](https://github.com/musaibxandra/WiseBuy-Haven)<br><br>
+- 🔭 My Recent Projects are [SJA_Pathway](https://github.com/musaibxandra/SJA-Pathway), [Fleet Wagon](https://github.com/musaibxandra/Fleet-Wagon), [WiseBuy Haven](https://github.com/musaibxandra/WiseBuy-Haven)<br><br>
 - 🤔 You can find me on Linkedin [here](https://www.linkedin.com/in/musaibxandra/)<br><br>
 - 📫 You can reach me at maqdoom114@gmail.com.<br><br>
 
